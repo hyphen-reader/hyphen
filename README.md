@@ -1,6 +1,8 @@
-![Hyphen Icon](http://hyphenreader.com/images/logo-small.png)
-
-*This is the official repository for Hyphen Reader.*
+<p align="center">
+<img src="http://hyphenreader.com/images/logo-small.png" />
+<br />
+This is the official repository for Hyphen Reader.
+</p>
 
 ## [Wiki](/wiki)
 
