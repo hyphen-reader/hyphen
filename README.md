@@ -11,3 +11,9 @@ Contains guides for using Hyphen.
 ## [Issues](/issues)
 
 Contains known bugs, feature requests, etc., for Hyphen. Go here to submit bugs, feature requests, and feedback.
+
+## Contact
+
+Twitter: [@hyphenreader](http://twitter.com/hyphenreader)
+
+Email: [hyphenreader@gmail.com](mailto:hyphenreader@gmail.com)
