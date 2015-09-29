@@ -1,7 +1,7 @@
 <p align="center">
 <img src="http://hyphenreader.com/images/logo-small.png" />
-<br />
-This is the official repository for Hyphen Reader.
+<br /><br />
+The official repository for Hyphen Reader.
 </p>
 
 ## [Wiki](/wiki)
