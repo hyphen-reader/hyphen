@@ -4,11 +4,11 @@
 The official repository for Hyphen Reader.
 </p>
 
-## [Wiki](/wiki)
+## [Wiki](https://github.com/hyphen-reader/hyphen/blob/master/issues)
 
 Contains guides for using Hyphen.
 
-## [Issues](/issues)
+## [Issues](https://github.com/hyphen-reader/hyphen/blob/master/wiki)
 
 Contains known bugs, feature requests, etc., for Hyphen. Go here to submit bugs, feature requests, and feedback.
 
