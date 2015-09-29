@@ -1,7 +1,5 @@
 ![Hyphen Icon](http://hyphenreader.com/images/logo-small.png)
 
-# Hyphen
-
 This is the official repository for Hyphen Reader.
 
 ## [Wiki](/wiki)
