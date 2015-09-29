@@ -1,4 +1,4 @@
-![Hyphen Icon](https://avatars3.githubusercontent.com/u/14896513?v=3&s=100)
+![Hyphen Icon](http://hyphenreader.com/images/logo-small.png)
 
 # Hyphen
 
