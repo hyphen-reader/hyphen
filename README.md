@@ -18,6 +18,6 @@ Acts as a changelog for app versions.
 
 ## Contact
 
-Twitter: [@hyphenreader](http://twitter.com/hyphenreader)
+Twitter: <a href="http://twitter.com/hyphenreader" target="_blank">@hyphenreader</a>
 
 Email: [hyphenreader@gmail.com](mailto:hyphenreader@gmail.com)
