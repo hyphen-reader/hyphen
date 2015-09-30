@@ -12,7 +12,7 @@ Contains guides for using Hyphen.
 
 Contains known bugs, feature requests, etc., for Hyphen. Go here to submit bugs, feature requests, and feedback.
 
-## [Release](https://github.com/hyphen-reader/hyphen/releases)
+## [Releases](https://github.com/hyphen-reader/hyphen/releases)
 
 Acts as a changelog for app versions.
 
