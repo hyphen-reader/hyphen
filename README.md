@@ -6,7 +6,7 @@
 
 ## [Wiki](https://github.com/hyphen-reader/hyphen/wiki)
 
-Contains guides for using Hyphen.
+Contains guides and articles for Hyphen.
 
 ## [Issues](https://github.com/hyphen-reader/hyphen/issues)
 
