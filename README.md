@@ -10,7 +10,7 @@ Contains guides and articles for Hyphen.
 
 ## [Issues](https://github.com/hyphen-reader/hyphen/issues)
 
-Contains known bugs, feature requests, etc., for Hyphen. Go here to submit bugs, feature requests, and feedback.
+Contains known bugs, feature requests, etc., for Hyphen. Also serves as Hyphen's roadmap. Go here to submit bugs, feature requests, and feedback.
 
 ## [Releases](https://github.com/hyphen-reader/hyphen/releases)
 
