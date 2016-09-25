@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="http://hyphenreader.com/"><img src="http://hyphenreader.com/images/logo-small.png" /></a>
+	<a href="http://hyphenreader.com/"><img src="logo-small.png" /></a>
 	<br /><br />
 	The official repository for Hyphen Reader.
 </p>
